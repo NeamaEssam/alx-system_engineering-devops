@@ -1,2 +1,2 @@
 #!/bi/bash
-chmod 100 hello
+chmod --x------ hello
