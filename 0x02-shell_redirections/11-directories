@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lRa . | greb ^d |wc -l
